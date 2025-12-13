@@ -1,6 +1,10 @@
 {
     "users": [
-
+{"id" : 123,
+"name": "Thai",
+"surname": "Turtle",
+"avatar" : "real_glamour"
+}
     ],
     "products": [
 
