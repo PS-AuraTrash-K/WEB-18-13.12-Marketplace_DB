@@ -3,10 +3,54 @@
         {
             "id": 1286,
             "name": "Sasha Ozhha",
-            "avatar": "img/L.jpg"
+            "avatar": "img/L.jpg",
+            "balance": 10000
         }
     ],
     "products": [
+        {
+            "id":0,
+            "name":"Dragon Ball Anime Figure 25cm Son Goku Ultra",
+            "description": "Dragon Ball Anime Figure 25cm Son Goku Ultra Instinct Super Saiyan Figurine Statue Pvc Statue Model Ornament Collection Toy Gift",
+            "price": 362.12,
+            "author_id": 1286,
+            "photo_url": "img/Goku.png"
+        },
 
+        {
+            "id":0,
+            "name":"DEATH NOTE Figure Yagami Light Cute Edition 10CM L·Lawliet",
+            "description": "DEATH NOTE Figure Yagami Light Cute Edition 10CM L·Lawliet PVC Action Figure Amine Toygift Collectible Figurine",
+            "price": 950.19,
+            "author_id": 1286,
+            "photo_url": "img/Screenshot 2025-12-13 193622.png"
+        },
+
+        {
+            "id":0,
+            "name":"Naruto Anime Figure",
+            "description": "Naruto Anime Figure Blind Box 12 PCS Mystery Box Collection Random Character Uzumaki Naruto Sasuke Kakashi Action Figure Gift",
+            "price": 157.25,
+            "author_id": 1286,
+            "photo_url": "img/Naruto.png"
+        }, 
+
+        {
+            "id":0,
+            "name":"Hatsune Miku Kawaii",
+            "description": "15cm Hatsune Miku Kawaii Q Version Figure Doll Anime Peripheral Keychain Bag Pendant Toy Collection Model Ornament Toys Gifts",
+            "price": 146.01,
+            "author_id": 1286,
+            "photo_url": "img/Miku.png"
+        },
+
+        {
+            "id":0,
+            "name":"Pet Wig Cat Wig",
+            "description": "Pet Wig Dog Wig Pet Supplies Halloween Pet Accessories Curly Hair Straight Hair Cat Wig It can be DIY trimmed",
+            "price": 46.01,
+            "author_id": 1286,
+            "photo_url": "img/Cat.png"
+        }
     ]
 }
