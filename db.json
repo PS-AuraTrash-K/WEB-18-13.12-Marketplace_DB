@@ -1,6 +1,10 @@
 {
     "users": [
-
+        {
+            "id": 1286,
+            "name": "Sasha Ozhha",
+            "avatar": "img/L.jpg"
+        }
     ],
     "products": [
 
