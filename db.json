@@ -1,6 +1,11 @@
 {
     "users": [
-
+        {
+            "id": 665,
+            "name": "Taras",
+            "surname": "Shparuk",
+            "avatar": "img/trash-bin.webp"
+        }
     ],
     "products": [
 
