@@ -1,0 +1,132 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: linear-gradient(135deg, #9face6, #74ebd5);
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.profile-container {
+    width: 380px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+/* Верх профілю */
+.profile-header {
+    background: white;
+    padding: 25px;
+    border-radius: 25px;
+    text-align: center;
+    box-shadow: 0 10px 25px rgba(0,0,0,0.2);
+}
+
+.avatar {
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-bottom: 10px;
+}
+
+/* Карточки */
+.card {
+    background: white;
+    padding: 20px;
+    border-radius: 22px;
+    box-shadow: 0 8px 20px rgba(0,0,0,0.2);
+}
+
+.card h3 {
+    margin-top: 0;
+    text-align: center;
+}
+
+/* Форма */
+.card form {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.card input {
+    padding: 10px;
+    border-radius: 25px;
+    border: 1px solid #ccc;
+    text-align: center;
+    outline: none;
+}
+.back-link {
+    align-self: flex-start;
+    text-decoration: none;
+}
+
+.back-btn {
+    padding: 10px 20px;
+    border-radius: 30px;
+    border: none;
+    background: linear-gradient(135deg, #6a82fb, #845ec2);
+    color: white;
+    font-size: 14px;
+    cursor: pointer;
+    box-shadow: 0 6px 15px rgba(0,0,0,0.25);
+    transition: 0.3s;
+    text-align: center;
+    text-decoration: none;
+}
+
+.back-btn:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 10px 25px rgba(0,0,0,0.35);
+}
+
+.back-btn:active {
+    transform: scale(0.95);
+}
+
+.card input:focus {
+    border-color: #6a82fb;
+}
+
+/* Кнопка */
+.card button {
+    padding: 10px;
+    border-radius: 30px;
+    border: none;
+    background: linear-gradient(135deg, #6a82fb, #845ec2);
+    color: white;
+    font-size: 15px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+.card button:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 6px 15px rgba(0,0,0,0.3);
+}
+
+/* Історія покупок */
+.history {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.history li {
+    display: flex;
+    justify-content: space-between;
+    padding: 8px 0;
+    border-bottom: 1px solid #eee;
+    font-size: 14px;
+}
+
+.history li:last-child {
+    border-bottom: none;
+}

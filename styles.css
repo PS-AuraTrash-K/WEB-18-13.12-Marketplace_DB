@@ -1,3 +1,76 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background: linear-gradient(135deg, #74ebd5, #9face6);
+    height: 100vh;
+    margin: 0;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.login-box {
+    width: 320px;
+    padding: 30px;
+    background: white;
+    border-radius: 22px;
+    box-shadow: 0 10px 30px rgba(0,0,0,0.25);
+    text-align: center;
+}
+
+.login-box h2 {
+    margin-bottom: 20px;
+}
+
+/* Центрування полів */
+.login-box form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.login-box input {
+    width: 100%;
+    padding: 12px;
+    margin: 10px 0;
+    border-radius: 30px;
+    border: 1px solid #ccc;
+    font-size: 14px;
+    outline: none;
+    text-align: center;
+}
+
+.login-box input:focus {
+    border-color: #6a82fb;
+}
+
+/* Анімована кнопка */
+.btn {
+    width: 100%;
+    padding: 12px;
+    margin-top: 18px;
+    border-radius: 35px;
+    border: none;
+    background: linear-gradient(135deg, #6a82fb, #845ec2);
+    color: white;
+    font-size: 16px;
+    cursor: pointer;
+    transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.btn:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 8px 20px rgba(0,0,0,0.3);
+}
+
+.btn:active {
+    transform: scale(0.96);
+}
+
 body {
     font-family: Arial, sans-serif;
     background: linear-gradient(135deg, #74ebd5, #9face6);
