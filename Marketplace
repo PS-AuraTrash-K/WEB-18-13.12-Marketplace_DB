@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+    <meta charset="UTF-8">
+    <title>Marketplace</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header class="header">
+    <div class="logo">Marketplace</div>
+    <input type="text" class="search" placeholder="Пошук товарів...">
+    <nav class="nav">
+        <a href="#">Увійти</a>
+        <a href="#">Кошик</a>
+    </nav>
+</header>
+
+<section class="categories">
+    <button>Електроніка</button>
+    <button>Одяг</button>
+    <button>Дім</button>
+    <button>Спорт</button>
+    <button>Інше</button>
+</section>
+
+<main class="products">
+    <div class="product-card">
+        <img src="https://via.placeholder.com/200" alt="Товар">
+        <h3>Назва товару</h3>
+        <p class="price">1 200 ₴</p>
+        <button>Купити</button>
+    </div>
+
+    <div class="product-card">
+        <img src="https://via.placeholder.com/200" alt="Товар">
+        <h3>Назва товару</h3>
+        <p class="price">850 ₴</p>
+        <button>Купити</button>
+    </div>
+
+    <div class="product-card">
+        <img src="https://via.placeholder.com/200" alt="Товар">
+        <h3>Назва товару</h3>
+        <p class="price">2 300 ₴</p>
+        <button>Купити</button>
+    </div>
+</main>
+
+<footer class="footer">
+    <p>© 2025 Marketplace. Усі права захищені.</p>
+</footer>
+
+</body>
+</html>
