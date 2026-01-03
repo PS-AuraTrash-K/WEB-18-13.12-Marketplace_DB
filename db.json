@@ -5,7 +5,17 @@
             "name": "Sasha Ozhha",
             "avatar": "img/L.jpg",
             "balance": 10000
-        }
+        },{"id" : 123,
+"name": "Thai",
+"surname": "Turtle",
+"avatar" : "real_glamour",
+"balance": 3153.24
+}, {
+      "id": 665,
+            "name": "Taras",
+            "surname": "Shparuk",
+            "avatar": "img/trash-bin.webp",
+            "balance": 9166}
     ],
     "products": [
         {
@@ -51,6 +61,47 @@
             "price": 46.01,
             "author_id": 1286,
             "photo_url": "img/Cat.png"
+        },{
+            "id": 1,
+            "name": "Casino Lucky",
+            "description": "We offer more products related to gaming consoles. If you have any other needs, please contact ourcustomer service.",
+            "price": 114.79,
+            "author_id": 665,
+            "photo_url" : "Casino"
+        },
+        {
+            "id": 2,
+            "name": "Catfish ",
+            "description": "Novelty Halloween Horror Catfish Cosplay Mask with Gloves Costume Green Fish Monster Masquerade Carnival Party Latex Helmet",
+            "price": 578.67,
+            "author_id": 665,
+            "photo_url" : "riba"
+        },
+        {
+            "id": 0,
+            "name": " Pet Strap",
+            "description": "New Small Pet Adjustable Soft Strap Leash Bird Parrot Mouse Hamster Ferret Rat Pet Pig Leash Leash",
+            "price": 106.04,
+            "author_id": 665,
+            "photo_url" : "homiak"
+        }
+      ,
+        {
+            "id": 1,
+            "name": "Подушка дакімакура",
+            "description": "Що подарувати велике і незабутнє? Великого плюшевого ведмедика? Ні! Найкращий подарунок - це ростова (у зріст людини) подушка дакімакура з принтами улюблених героїв або зображенням іменинника! Тобі і твоїм друзям потрібна така!",
+            "price": 1890,
+            "author_id": 665,
+            "photo_url": "img/dakimakura.webp"
+        }, 
+        {
+            "id": 2,
+            "name": "Труси чоловічі патріотичні",
+            "description": "Розмір чоловічих плавок - XXXXL Труси чоловічі боксери бавовна + бамбук + спандeкс WENZHI",
+            "price": 180,
+            "author_id": 665,
+            "photo_url": "img/patrioticheskie.webp"
         }
     ]
 }
+
