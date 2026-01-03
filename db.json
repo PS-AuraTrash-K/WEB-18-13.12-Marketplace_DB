@@ -1,14 +1,43 @@
 {
     "users": [
-        {
-            "id": 665,
+{"id" : 123,
+"name": "Thai",
+"surname": "Turtle",
+"avatar" : "real_glamour",
+"balance": 3153.24
+}, 
+      "id": 665,
             "name": "Taras",
             "surname": "Shparuk",
             "avatar": "img/trash-bin.webp",
             "balance": 9166
-        }
     ],
-    "products": [
+"products": [
+        {
+            "id": 1,
+            "name": "Casino Lucky",
+            "description": "We offer more products related to gaming consoles. If you have any other needs, please contact ourcustomer service.",
+            "price": 114.79,
+            "author_id": 665,
+            "photo_url" : "Casino"
+        },
+        {
+            "id": 2,
+            "name": "Catfish ",
+            "description": "Novelty Halloween Horror Catfish Cosplay Mask with Gloves Costume Green Fish Monster Masquerade Carnival Party Latex Helmet",
+            "price": 578.67,
+            "author_id": 665,
+            "photo_url" : "riba"
+        },
+        {
+            "id": 0,
+            "name": " Pet Strap",
+            "description": "New Small Pet Adjustable Soft Strap Leash Bird Parrot Mouse Hamster Ferret Rat Pet Pig Leash Leash",
+            "price": 106.04,
+            "author_id": 665,
+            "photo_url" : "homiak"
+        }
+      ,
         {
             "id": 1,
             "name": "Подушка дакімакура",
@@ -27,3 +56,4 @@
         }
     ]
 }
+
