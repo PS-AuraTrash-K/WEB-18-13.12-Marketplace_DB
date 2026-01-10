@@ -29,7 +29,7 @@
         },
 
         {
-            "id":0,
+            "id":1,
             "name":"DEATH NOTE Figure Yagami Light Cute Edition 10CM L·Lawliet",
             "description": "DEATH NOTE Figure Yagami Light Cute Edition 10CM L·Lawliet PVC Action Figure Amine Toygift Collectible Figurine",
             "price": 950.19,
@@ -38,7 +38,7 @@
         },
 
         {
-            "id":0,
+            "id":2,
             "name":"Naruto Anime Figure",
             "description": "Naruto Anime Figure Blind Box 12 PCS Mystery Box Collection Random Character Uzumaki Naruto Sasuke Kakashi Action Figure Gift",
             "price": 157.25,
@@ -47,7 +47,7 @@
         }, 
 
         {
-            "id":0,
+            "id":3,
             "name":"Hatsune Miku Kawaii",
             "description": "15cm Hatsune Miku Kawaii Q Version Figure Doll Anime Peripheral Keychain Bag Pendant Toy Collection Model Ornament Toys Gifts",
             "price": 146.01,
@@ -56,14 +56,14 @@
         },
 
         {
-            "id":0,
+            "id":4,
             "name":"Pet Wig Cat Wig",
             "description": "Pet Wig Dog Wig Pet Supplies Halloween Pet Accessories Curly Hair Straight Hair Cat Wig It can be DIY trimmed",
             "price": 46.01,
             "author_id": 1286,
             "photo_url": "https://raw.githubusercontent.com/PS-AuraTrash-K/WEB-18-13.12-Marketplace_DB/refs/heads/main/img/Cat.png"
         },{
-            "id": 1,
+            "id": 5,
             "name": "Casino Lucky",
             "description": "We offer more products related to gaming consoles. If you have any other needs, please contact ourcustomer service.",
             "price": 114.79,
@@ -71,7 +71,7 @@
             "photo_url" : "https://raw.githubusercontent.com/PS-AuraTrash-K/WEB-18-13.12-Marketplace_DB/refs/heads/main/img/Casino.png"
         },
         {
-            "id": 2,
+            "id": 6,
             "name": "Catfish ",
             "description": "Novelty Halloween Horror Catfish Cosplay Mask with Gloves Costume Green Fish Monster Masquerade Carnival Party Latex Helmet",
             "price": 578.67,
@@ -79,7 +79,7 @@
             "photo_url" : "https://raw.githubusercontent.com/PS-AuraTrash-K/WEB-18-13.12-Marketplace_DB/refs/heads/main/img/riba.png"
         },
         {
-            "id": 0,
+            "id": 7,
             "name": " Pet Strap",
             "description": "New Small Pet Adjustable Soft Strap Leash Bird Parrot Mouse Hamster Ferret Rat Pet Pig Leash Leash",
             "price": 106.04,
@@ -88,7 +88,7 @@
         }
       ,
         {
-            "id": 1,
+            "id": 8,
             "name": "Подушка дакімакура",
             "description": "Що подарувати велике і незабутнє? Великого плюшевого ведмедика? Ні! Найкращий подарунок - це ростова (у зріст людини) подушка дакімакура з принтами улюблених героїв або зображенням іменинника! Тобі і твоїм друзям потрібна така!",
             "price": 1890,
@@ -96,7 +96,7 @@
             "photo_url": "https://raw.githubusercontent.com/PS-AuraTrash-K/WEB-18-13.12-Marketplace_DB/refs/heads/main/img/dakimakura.webp"
         }, 
         {
-            "id": 2,
+            "id": 9,
             "name": "Труси чоловічі патріотичні",
             "description": "Розмір чоловічих плавок - XXXXL Труси чоловічі боксери бавовна + бамбук + спандeкс WENZHI",
             "price": 180,
