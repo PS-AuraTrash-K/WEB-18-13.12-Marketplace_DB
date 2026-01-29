@@ -4,19 +4,25 @@
             "id": 1286,
             "name": "Sasha Ozhha",
             "avatar": "https://raw.githubusercontent.com/PS-AuraTrash-K/WEB-18-13.12-Marketplace_DB/refs/heads/main/img/L.jpg",
-            "balance": 10000
+            "balance": 10000,
+            "pass": "realglamour"
         },
         {"id" : 123,
             "name": "Thai",
             "surname": "Turtle",
             "avatar" : "https://raw.githubusercontent.com/PS-AuraTrash-K/WEB-18-13.12-Marketplace_DB/refs/heads/main/img/Real_glamour.jpg",
-            "balance": 3153.24
+            "balance": 3153.24,
+                        "pass": "realglamour"
+
             }, {
       "id": 665,
             "name": "Taras",
             "surname": "Shparuk",
             "avatar": "https://raw.githubusercontent.com/PS-AuraTrash-K/WEB-18-13.12-Marketplace_DB/refs/heads/main/img/trash-bin.webp",
-            "balance": 9166}
+            "balance": 9166,
+            "pass": "realglamour"
+
+        }
     ],
     "products": [
         {
