@@ -2,12 +2,15 @@
     "users": [
         {
             "id": 1286,
-            "name": "Sasha Ozhha",
+            "login": "Sasha",
+            "name": "Sasha",
+            "surname": "Ozhha",
             "avatar": "https://raw.githubusercontent.com/PS-AuraTrash-K/WEB-18-13.12-Marketplace_DB/refs/heads/main/img/L.jpg",
             "balance": 10000,
             "pass": "realglamour"
         },
         {"id" : 123,
+            "login": "ThaiTurtle",
             "name": "Thai",
             "surname": "Turtle",
             "avatar" : "https://raw.githubusercontent.com/PS-AuraTrash-K/WEB-18-13.12-Marketplace_DB/refs/heads/main/img/Real_glamour.jpg",
@@ -16,6 +19,7 @@
 
             }, {
       "id": 665,
+            "login": "trash",
             "name": "Taras",
             "surname": "Shparuk",
             "avatar": "https://raw.githubusercontent.com/PS-AuraTrash-K/WEB-18-13.12-Marketplace_DB/refs/heads/main/img/trash-bin.webp",
