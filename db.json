@@ -112,6 +112,10 @@
             "price": 180,
             "author_id": 665,
             "photo_url": "https://raw.githubusercontent.com/PS-AuraTrash-K/WEB-18-13.12-Marketplace_DB/refs/heads/main/img/patrioticheskie.webp"
+        },
+        {
+            "id": 10,
+            "name": "Магнітікі, я не знаю"
         }
     ]
 }
